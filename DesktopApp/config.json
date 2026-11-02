@@ -1,0 +1,59 @@
+{
+    "api_url": "http://10.52.1.126:8046/api/open/ipqc-template-data-a246f/process-report",
+    "watch_directory": "C:/Users/2063907/Desktop/IQC Data",
+    "interval": 5,
+    "header_row": 7,
+    "header_start_col": 2,
+    "data_start_row": 8,
+    "start_on_windows_login": false,
+    "metadata_mappings": [
+        {
+            "field": "Report Name",
+            "cell": "B1"
+        },
+        {
+            "field": "Part Name",
+            "cell": "B2"
+        },
+        {
+            "field": "Part No.",
+            "cell": "B3"
+        },
+        {
+            "field": "Operation",
+            "cell": "B4"
+        },
+        {
+            "field": "Company",
+            "cell": "B5"
+        },
+        {
+            "field": "workshop",
+            "cell": "E1"
+        },
+        {
+            "field": "floor",
+            "cell": "E2"
+        },
+        {
+            "field": "class",
+            "cell": "E3"
+        },
+        {
+            "field": "work",
+            "cell": "E4"
+        },
+        {
+            "field": "Machina",
+            "cell": "E5"
+        },
+        {
+            "field": "Time",
+            "cell": "G1"
+        },
+        {
+            "field": "Cu",
+            "cell": "G5"
+        }
+    ]
+}
